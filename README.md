@@ -6,7 +6,7 @@ An AI-powered chatbot for **disaster preparedness and medical emergency guidance
 
 Try the application here:
 
-🔗 [Live Demo](https://disastershieldai-e2qsvfy63nmrnqeyayzt6b.streamlit.app/)
+🔗 Demo Link: https://disastershieldai-e2qsvfy63nmrnqeyayzt6b.streamlit.app/
 
 ---
 
@@ -55,11 +55,17 @@ Disaster-Shield-AI/
 - 💬 AI-powered conversational chatbot
 - 🌪️ Disaster preparedness assistance
 - 🏥 Medical emergency guidance
-- 🤖 Gemini 2.5 Flash integration
 - 🛡️ Content filtering for safer interaction
 - ⚡ Simple and user-friendly interface
 
 ---
+
+## 🛠️ Technology Stack
+
+- Google Gemini 2.5 Flash (LLM)
+- Python
+- Streamlit
+- Google GenAI SDK
 
 
 ## 👤 Author
