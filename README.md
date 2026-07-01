@@ -29,6 +29,25 @@ This project aims to provide users with simple, conversational, and accessible e
 
 ---
 
+## 📂 Project Structure
+
+Disaster-Shield-AI/
+│
+├── app.py
+│ └── User interface layer
+│ Handles chatbot interaction and displays responses
+│
+├── main.py
+│ └── Core AI processing layer
+│ Handles Gemini integration, prompt handling, and response generation
+│
+├── safety.py
+│ └── Content filtering layer
+│ Filters inappropriate words and validates user input
+│
+└── requirements.txt
+└── Contains required Python dependencies
+
 ## 🚀 Features
 
 - 💬 AI-powered conversational chatbot
