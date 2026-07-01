@@ -40,3 +40,9 @@ This project aims to provide users with simple, conversational, and accessible e
 
 ---
 
+
+## 👤 Author
+
+**Vishal Malik**  
+🔗 [LinkedIn](https://www.linkedin.com/in/vishalmalik18/)  
+🔗 [GitHub](https://github.com/vishalmalik18)
