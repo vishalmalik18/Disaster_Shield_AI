@@ -6,7 +6,7 @@ An AI-powered chatbot for **disaster preparedness and medical emergency guidance
 
 Try the application here:
 
-🔗 **Demo Link:** <https://disastershieldai-e2qsvfy63nmrnqeyayzt6b.streamlit.app/>
+🔗 [Live Demo](https://disastershieldai-e2qsvfy63nmrnqeyayzt6b.streamlit.app/)
 
 ---
 
